@@ -18,7 +18,7 @@ An AI-powered creative story idea generator that helps writers, students, and cr
 
 ## 📸 Demo
 
-![App Screenshot](./screenshots/demo.png) <!-- Replace with actual path -->
+![Screenshot](https://github.com/harshkumar808348/Ai-Story-Telling-/blob/78421f77a738f16e6caba829b8d41c2220404ef4/WhatsApp%20Image%202025-05-09%20at%209.48.36%20AM.jpeg) <!-- Replace with actual path -->
 
 ---
 
